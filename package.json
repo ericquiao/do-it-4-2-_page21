@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "get-yahoo-emails": "node 01-fundamentals/get-emails-by-provider.js yahoo",
+    "get-google-emails": "node 01-fundamentals/get-emails-by-provider.js gmail",
     "hello": "app.js"
   },
   "author": "",
